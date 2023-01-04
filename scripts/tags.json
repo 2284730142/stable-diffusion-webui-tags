@@ -1,0 +1,2728 @@
+[
+  {
+    "name": "人物样貌",
+    "typeList": [
+      {
+        "name": "人体",
+        "data": [
+          {
+            "id": 5,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "1boy",
+            "chinesename": "男孩"
+          },
+          {
+            "id": 17,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "cat tail",
+            "chinesename": "猫尾巴"
+          },
+          {
+            "id": 18,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "cat ears",
+            "chinesename": "猫耳朵"
+          },
+          {
+            "id": 19,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": " animal ears",
+            "chinesename": "动物耳朵"
+          },
+          {
+            "id": 20,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "animal ear fluff",
+            "chinesename": "毛茸茸的动物耳朵"
+          },
+          {
+            "id": 24,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "collarbone",
+            "chinesename": "锁骨"
+          },
+          {
+            "id": 77,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "skin fang",
+            "chinesename": "虎牙"
+          },
+          {
+            "id": 358,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "no nose",
+            "chinesename": "没鼻子的"
+          },
+          {
+            "id": 359,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "fangs",
+            "chinesename": "尖牙"
+          },
+          {
+            "id": 360,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "tongue",
+            "chinesename": "舌头"
+          },
+          {
+            "id": 361,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "saliva",
+            "chinesename": "唾液"
+          },
+          {
+            "id": 362,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "animal ears",
+            "chinesename": "动物耳朵"
+          },
+          {
+            "id": 363,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "fox ears",
+            "chinesename": "狐狸耳朵"
+          },
+          {
+            "id": 364,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "bunny ears",
+            "chinesename": "兔耳"
+          },
+          {
+            "id": 365,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "dog ears",
+            "chinesename": "狗耳"
+          },
+          {
+            "id": 366,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "mouse ears",
+            "chinesename": "老鼠耳朵"
+          },
+          {
+            "id": 367,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "pointy ears",
+            "chinesename": "尖耳"
+          },
+          {
+            "id": 368,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "armpit",
+            "chinesename": "腋"
+          },
+          {
+            "id": 369,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "wings",
+            "chinesename": "翅膀/翼"
+          },
+          {
+            "id": 370,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "bat wings",
+            "chinesename": "蝙蝠翅膀"
+          },
+          {
+            "id": 371,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "butterfly wings",
+            "chinesename": "蝴蝶翅膀"
+          },
+          {
+            "id": 372,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "black wings",
+            "chinesename": "黑色之翼"
+          },
+          {
+            "id": 373,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "demon wings",
+            "chinesename": "恶魔之翼"
+          },
+          {
+            "id": 374,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "muscle",
+            "chinesename": "肌肉"
+          },
+          {
+            "id": 375,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "chest",
+            "chinesename": "胸肌"
+          },
+          {
+            "id": 376,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "breasts",
+            "chinesename": "胸部"
+          },
+          {
+            "id": 377,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "flat chest",
+            "chinesename": "贫乳(A"
+          },
+          {
+            "id": 378,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "small breasts",
+            "chinesename": "小胸部(B"
+          },
+          {
+            "id": 379,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "medium breasts",
+            "chinesename": "中等胸部(C"
+          },
+          {
+            "id": 380,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "large breasts",
+            "chinesename": "大胸部(D"
+          },
+          {
+            "id": 381,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "huge breasts",
+            "chinesename": "巨乳(E"
+          },
+          {
+            "id": 382,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "gigantic breasts",
+            "chinesename": "魔乳(F"
+          },
+          {
+            "id": 383,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "navel",
+            "chinesename": "肚脐"
+          },
+          {
+            "id": 384,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "hips",
+            "chinesename": "臀部"
+          },
+          {
+            "id": 385,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "thigh gap",
+            "chinesename": "GU沟"
+          },
+          {
+            "id": 386,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "tail",
+            "chinesename": "尾巴"
+          },
+          {
+            "id": 387,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "thighs",
+            "chinesename": "大腿"
+          },
+          {
+            "id": 388,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "thick thighs",
+            "chinesename": "粗腿"
+          },
+          {
+            "id": 389,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "kneepits",
+            "chinesename": "膝盖内侧"
+          },
+          {
+            "id": 390,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "foot",
+            "chinesename": "脚"
+          },
+          {
+            "id": 391,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "toes",
+            "chinesename": "脚趾"
+          },
+          {
+            "id": 392,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "horns",
+            "chinesename": "兽角"
+          },
+          {
+            "id": 393,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "tan lines",
+            "chinesename": "晒日线"
+          },
+          {
+            "id": 394,
+            "typeid": 1,
+            "typename": "人体",
+            "englishname": "facial hair",
+            "chinesename": "男性脸部胡须"
+          }
+        ]
+      },
+      {
+        "name": "姿势",
+        "data": [
+          {
+            "id": 6,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "full body",
+            "chinesename": "全身"
+          },
+          {
+            "id": 50,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "selfie",
+            "chinesename": "自拍"
+          },
+          {
+            "id": 51,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "singing",
+            "chinesename": "唱歌"
+          },
+          {
+            "id": 52,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "dancing",
+            "chinesename": "跳舞"
+          },
+          {
+            "id": 53,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "playing card",
+            "chinesename": "玩牌"
+          },
+          {
+            "id": 54,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "wading",
+            "chinesename": "玩水"
+          },
+          {
+            "id": 55,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "partially submerged",
+            "chinesename": "浸在水中"
+          },
+          {
+            "id": 56,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "cum_in_mouth",
+            "chinesename": "口含（米青）"
+          },
+          {
+            "id": 57,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "riding position",
+            "chinesename": "乘器为"
+          },
+          {
+            "id": 63,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "spread legs",
+            "chinesename": "(又又)（月退）张开"
+          },
+          {
+            "id": 65,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "aiming at viewer",
+            "chinesename": "狙击"
+          },
+          {
+            "id": 66,
+            "typeid": 4,
+            "typename": "姿势",
+            "englishname": "fighting stance",
+            "chinesename": "战斗姿势"
+          }
+        ]
+      },
+      {
+        "name": "发型",
+        "data": [
+          {
+            "id": 11,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "hair",
+            "chinesename": "头发"
+          },
+          {
+            "id": 12,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "longhair",
+            "chinesename": "长发"
+          },
+          {
+            "id": 13,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "shorthair",
+            "chinesename": "短发"
+          },
+          {
+            "id": 15,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "gradient pink longhair",
+            "chinesename": "渐变颜色长发"
+          },
+          {
+            "id": 21,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "bangs",
+            "chinesename": "刘海"
+          },
+          {
+            "id": 22,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "hair between eyes",
+            "chinesename": "两眼之间的头发"
+          },
+          {
+            "id": 23,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "eyebrows behind hair",
+            "chinesename": "眉毛后面的头发"
+          },
+          {
+            "id": 67,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "single braid",
+            "chinesename": "单编发"
+          },
+          {
+            "id": 68,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "hime cut",
+            "chinesename": "公主切"
+          },
+          {
+            "id": 69,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "bun",
+            "chinesename": "盘发"
+          },
+          {
+            "id": 70,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "braided bun",
+            "chinesename": "盘发"
+          },
+          {
+            "id": 71,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "streaked hair",
+            "chinesename": "部分染发"
+          },
+          {
+            "id": 79,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "swept bangs",
+            "chinesename": "斜刘海"
+          },
+          {
+            "id": 80,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "hair intakes",
+            "chinesename": "内卷发"
+          },
+          {
+            "id": 340,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "ahoge",
+            "chinesename": "呆毛"
+          },
+          {
+            "id": 341,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "blunt bangs",
+            "chinesename": "齐刘海"
+          },
+          {
+            "id": 342,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "curly hair",
+            "chinesename": "卷发"
+          },
+          {
+            "id": 343,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "drill hair",
+            "chinesename": "钻头卷/公主卷"
+          },
+          {
+            "id": 344,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "hair bun",
+            "chinesename": "包子头"
+          },
+          {
+            "id": 345,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "double bun",
+            "chinesename": "包子头(两个)"
+          },
+          {
+            "id": 346,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "ponytail",
+            "chinesename": "马尾"
+          },
+          {
+            "id": 347,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "short ponytail",
+            "chinesename": "短马尾"
+          },
+          {
+            "id": 348,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "side ponytail",
+            "chinesename": "侧马尾"
+          },
+          {
+            "id": 349,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "twintails",
+            "chinesename": "双马尾"
+          },
+          {
+            "id": 350,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "messy hair",
+            "chinesename": "凌乱发型"
+          },
+          {
+            "id": 351,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "braid",
+            "chinesename": "辫子"
+          },
+          {
+            "id": 352,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "twin braids",
+            "chinesename": "双辫子"
+          },
+          {
+            "id": 353,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "payot",
+            "chinesename": "长鬓角"
+          },
+          {
+            "id": 354,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "wavy hair",
+            "chinesename": "波浪发型"
+          },
+          {
+            "id": 355,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "short hair",
+            "chinesename": "短发"
+          },
+          {
+            "id": 356,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "long hair",
+            "chinesename": "长发"
+          },
+          {
+            "id": 357,
+            "typeid": 1,
+            "typename": "发型",
+            "englishname": "very long hair",
+            "chinesename": "很长的头发"
+          }
+        ]
+      },
+      {
+        "name": "表情",
+        "data": [
+          {
+            "id": 72,
+            "typeid": 1,
+            "typename": "表情",
+            "englishname": "grin",
+            "chinesename": "笑"
+          },
+          {
+            "id": 73,
+            "typeid": 1,
+            "typename": "表情",
+            "englishname": "embarrassed",
+            "chinesename": "害羞"
+          },
+          {
+            "id": 74,
+            "typeid": 1,
+            "typename": "表情",
+            "englishname": "surprised",
+            "chinesename": "震惊"
+          },
+          {
+            "id": 75,
+            "typeid": 1,
+            "typename": "表情",
+            "englishname": "smug",
+            "chinesename": "得意"
+          }
+        ]
+      },
+      {
+        "name": "眼睛",
+        "data": [
+          {
+            "id": 14,
+            "typeid": 1,
+            "typename": "眼睛",
+            "englishname": "eyes",
+            "chinesename": "眼睛"
+          },
+          {
+            "id": 16,
+            "typeid": 1,
+            "typename": "眼睛",
+            "englishname": "gradient pink eyes",
+            "chinesename": "渐变颜色眼睛"
+          },
+          {
+            "id": 76,
+            "typeid": 1,
+            "typename": "眼睛",
+            "englishname": "heterochromia",
+            "chinesename": "异瞳"
+          },
+          {
+            "id": 81,
+            "typeid": 1,
+            "typename": "眼睛",
+            "englishname": "heart-shaped pupils",
+            "chinesename": "爱心眼"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "服装类型",
+    "typeList": [
+      {
+        "name": "衣服",
+        "data": [
+          {
+            "id": 25,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "thighhighs",
+            "chinesename": "斗篷(要在很前面才有效)"
+          },
+          {
+            "id": 28,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "maid",
+            "chinesename": "女仆"
+          },
+          {
+            "id": 29,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "angel wings",
+            "chinesename": "天使翅膀"
+          },
+          {
+            "id": 30,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "unexposed",
+            "chinesename": "不暴露的衣服"
+          },
+          {
+            "id": 31,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "serafuku",
+            "chinesename": "水手服"
+          },
+          {
+            "id": 32,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "kimono",
+            "chinesename": "和服"
+          },
+          {
+            "id": 33,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "wedding dress",
+            "chinesename": "婚纱"
+          },
+          {
+            "id": 34,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "lolita fashion",
+            "chinesename": "时尚洛丽塔"
+          },
+          {
+            "id": 35,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "gothic lolita",
+            "chinesename": "哥特式洛丽塔"
+          },
+          {
+            "id": 36,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "gym uniform",
+            "chinesename": "体操服"
+          },
+          {
+            "id": 37,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "track suits",
+            "chinesename": "运动服"
+          },
+          {
+            "id": 38,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": " track pants",
+            "chinesename": "运动服"
+          },
+          {
+            "id": 39,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "tennis uniform",
+            "chinesename": "网球服"
+          },
+          {
+            "id": 40,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "employee uniform",
+            "chinesename": "店员制服"
+          },
+          {
+            "id": 41,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "tabard",
+            "chinesename": "纹章战袍"
+          },
+          {
+            "id": 42,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "labcoat",
+            "chinesename": "白大褂"
+          },
+          {
+            "id": 43,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "sundress",
+            "chinesename": "白色连衣裙"
+          },
+          {
+            "id": 44,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pajamas",
+            "chinesename": "睡衣"
+          },
+          {
+            "id": 45,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "layered dress",
+            "chinesename": "叠层裙"
+          },
+          {
+            "id": 61,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "blindfold",
+            "chinesename": "眼罩"
+          },
+          {
+            "id": 83,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "torn clothes",
+            "chinesename": "破碎的衣服"
+          },
+          {
+            "id": 84,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "backless outfit",
+            "chinesename": "露背装"
+          },
+          {
+            "id": 85,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pinafore dress",
+            "chinesename": "细腰裙"
+          },
+          {
+            "id": 86,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "tailcoat",
+            "chinesename": "燕尾服"
+          },
+          {
+            "id": 178,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "gothic",
+            "chinesename": "哥特风格"
+          },
+          {
+            "id": 179,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "western",
+            "chinesename": "西部风格"
+          },
+          {
+            "id": 180,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "zettai ryouiki",
+            "chinesename": "绝对领域"
+          },
+          {
+            "id": 181,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "tartan",
+            "chinesename": "格子花纹"
+          },
+          {
+            "id": 184,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "off shoulder",
+            "chinesename": "露单肩"
+          },
+          {
+            "id": 185,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bare shoulders",
+            "chinesename": "露双肩"
+          },
+          {
+            "id": 186,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "cleavage",
+            "chinesename": "乳GOU"
+          },
+          {
+            "id": 187,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "no bra",
+            "chinesename": "无胸罩"
+          },
+          {
+            "id": 188,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "mouth hold",
+            "chinesename": "嘴咬住"
+          },
+          {
+            "id": 189,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "topless",
+            "chinesename": "上着较少"
+          },
+          {
+            "id": 190,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bottomless",
+            "chinesename": "下着较少"
+          },
+          {
+            "id": 191,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "open clothes",
+            "chinesename": "敞开衣服"
+          },
+          {
+            "id": 192,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "open robe",
+            "chinesename": "敞开长袍"
+          },
+          {
+            "id": 193,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "skirt lift",
+            "chinesename": "掀起裙子"
+          },
+          {
+            "id": 194,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "undressing",
+            "chinesename": "脱衣服中"
+          },
+          {
+            "id": 195,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "panty pull",
+            "chinesename": "内裤拉下来"
+          },
+          {
+            "id": 196,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pantyshot",
+            "chinesename": "内裤走光"
+          },
+          {
+            "id": 197,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "maebari",
+            "chinesename": "阴TIE"
+          },
+          {
+            "id": 198,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pasties",
+            "chinesename": "乳TIE"
+          },
+          {
+            "id": 199,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "barefoot",
+            "chinesename": "赤脚"
+          },
+          {
+            "id": 200,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bare legs",
+            "chinesename": "裸足"
+          },
+          {
+            "id": 201,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "striped",
+            "chinesename": "横条花纹的"
+          },
+          {
+            "id": 202,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "polka dot",
+            "chinesename": "点装花纹的"
+          },
+          {
+            "id": 203,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "frills",
+            "chinesename": "皱边的"
+          },
+          {
+            "id": 251,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "see-through",
+            "chinesename": "透明装"
+          },
+          {
+            "id": 252,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "santa",
+            "chinesename": "圣诞装"
+          },
+          {
+            "id": 253,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "detached sleeves",
+            "chinesename": "袖肩分离装"
+          },
+          {
+            "id": 254,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "long sleeves",
+            "chinesename": "长袖"
+          },
+          {
+            "id": 255,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "tank top",
+            "chinesename": "女用背心"
+          },
+          {
+            "id": 256,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "robe",
+            "chinesename": "长袍"
+          },
+          {
+            "id": 257,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bodysuit",
+            "chinesename": "紧身衣"
+          },
+          {
+            "id": 258,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bodystocking",
+            "chinesename": "连紧衣"
+          },
+          {
+            "id": 259,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "underwear",
+            "chinesename": "内衣"
+          },
+          {
+            "id": 260,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "lingerie",
+            "chinesename": "女用贴身内衣裤"
+          },
+          {
+            "id": 261,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "camisole",
+            "chinesename": "吊带背心"
+          },
+          {
+            "id": 262,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "midriff",
+            "chinesename": "露腰上衣"
+          },
+          {
+            "id": 263,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "babydoll",
+            "chinesename": "透明睡衣"
+          },
+          {
+            "id": 264,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "hoodie",
+            "chinesename": "卫衣"
+          },
+          {
+            "id": 265,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "japanese clothes",
+            "chinesename": "和服"
+          },
+          {
+            "id": 266,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "yukata",
+            "chinesename": "浴衣"
+          },
+          {
+            "id": 267,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "chinese clothes",
+            "chinesename": "唐装"
+          },
+          {
+            "id": 268,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "chinadress",
+            "chinesename": "旗袍"
+          },
+          {
+            "id": 269,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bikini",
+            "chinesename": "比基尼"
+          },
+          {
+            "id": 270,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "side-tie bikini",
+            "chinesename": "系带式比基尼"
+          },
+          {
+            "id": 271,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "swimsuit",
+            "chinesename": "泳装"
+          },
+          {
+            "id": 272,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "formal",
+            "chinesename": "晚礼服"
+          },
+          {
+            "id": 273,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "uniform",
+            "chinesename": "制服"
+          },
+          {
+            "id": 274,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "suit",
+            "chinesename": "西装"
+          },
+          {
+            "id": 275,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "business suit",
+            "chinesename": "职场制服"
+          },
+          {
+            "id": 276,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "school uniform",
+            "chinesename": "学校制服"
+          },
+          {
+            "id": 277,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "school swimsuit",
+            "chinesename": "学校泳衣"
+          },
+          {
+            "id": 278,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "sarashi",
+            "chinesename": "缠胸布"
+          },
+          {
+            "id": 279,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bustier",
+            "chinesename": "胸衣"
+          },
+          {
+            "id": 280,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "chemise",
+            "chinesename": "吊带胸衣"
+          },
+          {
+            "id": 281,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bra",
+            "chinesename": "内衣"
+          },
+          {
+            "id": 282,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "latex",
+            "chinesename": "乳TIE"
+          },
+          {
+            "id": 283,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bandaid",
+            "chinesename": "创可贴"
+          },
+          {
+            "id": 284,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "corset",
+            "chinesename": "紧身褡"
+          },
+          {
+            "id": 285,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "apron",
+            "chinesename": "围裙"
+          },
+          {
+            "id": 286,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "belt",
+            "chinesename": "腰带"
+          },
+          {
+            "id": 287,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "obi",
+            "chinesename": "衣带(和服用)"
+          },
+          {
+            "id": 288,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "skirt",
+            "chinesename": "裙子"
+          },
+          {
+            "id": 289,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "dress",
+            "chinesename": "连衣裙"
+          },
+          {
+            "id": 290,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pleated skirt",
+            "chinesename": "百褶裙"
+          },
+          {
+            "id": 291,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "miniskirt",
+            "chinesename": "迷你裙"
+          },
+          {
+            "id": 292,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "summer dress",
+            "chinesename": "夏日长裙"
+          },
+          {
+            "id": 293,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bloomers",
+            "chinesename": "灯笼裤"
+          },
+          {
+            "id": 294,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "shorts",
+            "chinesename": "短裤"
+          },
+          {
+            "id": 295,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "bike shorts",
+            "chinesename": "自行车短裤"
+          },
+          {
+            "id": 296,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "panties",
+            "chinesename": "内裤"
+          },
+          {
+            "id": 297,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "no panties",
+            "chinesename": "没内裤"
+          },
+          {
+            "id": 298,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "trefoil",
+            "chinesename": "三角裤给你看"
+          },
+          {
+            "id": 299,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "white panties",
+            "chinesename": "白色内裤"
+          },
+          {
+            "id": 300,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "pink panties",
+            "chinesename": "粉红内裤"
+          },
+          {
+            "id": 301,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "striped panties",
+            "chinesename": "条纹内裤"
+          },
+          {
+            "id": 302,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "low leg panties",
+            "chinesename": "低腰式内裤"
+          },
+          {
+            "id": 303,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "lowleg panties",
+            "chinesename": "低腰式内裤"
+          },
+          {
+            "id": 304,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "himopan",
+            "chinesename": "系带式内裤"
+          },
+          {
+            "id": 305,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "side-tie panties",
+            "chinesename": "系带式内裤"
+          },
+          {
+            "id": 306,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "thong",
+            "chinesename": "丁字裤"
+          },
+          {
+            "id": 307,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "fundoshi",
+            "chinesename": "日式丁字裤"
+          },
+          {
+            "id": 308,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "condom",
+            "chinesename": "套套"
+          },
+          {
+            "id": 309,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "butt plug",
+            "chinesename": "添加的尾巴"
+          },
+          {
+            "id": 310,
+            "typeid": 2,
+            "typename": "衣服",
+            "englishname": "diaper",
+            "chinesename": "尿布"
+          }
+        ]
+      },
+      {
+        "name": "饰品",
+        "data": [
+          {
+            "id": 204,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "halo",
+            "chinesename": "头顶光环"
+          },
+          {
+            "id": 205,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "tokin hat",
+            "chinesename": "东金帽子"
+          },
+          {
+            "id": 206,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "mini top hat",
+            "chinesename": "迷你礼帽"
+          },
+          {
+            "id": 207,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "beret",
+            "chinesename": "贝雷帽"
+          },
+          {
+            "id": 208,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hood",
+            "chinesename": "兜帽"
+          },
+          {
+            "id": 209,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "nurse cap",
+            "chinesename": "护士帽"
+          },
+          {
+            "id": 210,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "tiara",
+            "chinesename": "三重冕"
+          },
+          {
+            "id": 211,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "crown",
+            "chinesename": "皇冠"
+          },
+          {
+            "id": 212,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hairband",
+            "chinesename": "发卡"
+          },
+          {
+            "id": 213,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hairclip",
+            "chinesename": "发夹"
+          },
+          {
+            "id": 214,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hair ribbon",
+            "chinesename": "发带"
+          },
+          {
+            "id": 215,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hair flower",
+            "chinesename": "发花"
+          },
+          {
+            "id": 216,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hair ornament",
+            "chinesename": "头饰"
+          },
+          {
+            "id": 217,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "bowtie",
+            "chinesename": "蝴蝶结"
+          },
+          {
+            "id": 218,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "hair bow",
+            "chinesename": "蝴蝶结发饰"
+          },
+          {
+            "id": 219,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "maid headdress",
+            "chinesename": "女仆头饰"
+          },
+          {
+            "id": 220,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "bow",
+            "chinesename": "服装饰品/头部饰品"
+          },
+          {
+            "id": 221,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "lace",
+            "chinesename": "花边"
+          },
+          {
+            "id": 222,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "ribbon",
+            "chinesename": "丝带"
+          },
+          {
+            "id": 223,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "bandage",
+            "chinesename": "绷带"
+          },
+          {
+            "id": 224,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "glasses",
+            "chinesename": "眼镜"
+          },
+          {
+            "id": 225,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "sunglasses",
+            "chinesename": "太阳镜"
+          },
+          {
+            "id": 226,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "goggles",
+            "chinesename": "风镜"
+          },
+          {
+            "id": 227,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "eyepatch",
+            "chinesename": "眼罩(独眼)"
+          },
+          {
+            "id": 228,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "mask",
+            "chinesename": "面具/眼罩/口罩"
+          },
+          {
+            "id": 229,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "earrings",
+            "chinesename": "耳环"
+          },
+          {
+            "id": 230,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "jewelry",
+            "chinesename": "首饰"
+          },
+          {
+            "id": 231,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "collar",
+            "chinesename": "项圈"
+          },
+          {
+            "id": 232,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "bell",
+            "chinesename": "铃铛"
+          },
+          {
+            "id": 233,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "choker",
+            "chinesename": "颈部饰品"
+          },
+          {
+            "id": 234,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "sailor collar",
+            "chinesename": "水手领"
+          },
+          {
+            "id": 235,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "ribbon choker",
+            "chinesename": "颈带"
+          },
+          {
+            "id": 236,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "necklace",
+            "chinesename": "项链"
+          },
+          {
+            "id": 237,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "scarf",
+            "chinesename": "围巾"
+          },
+          {
+            "id": 238,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "necktie/tie",
+            "chinesename": "领带"
+          },
+          {
+            "id": 239,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "armband",
+            "chinesename": "臂章"
+          },
+          {
+            "id": 240,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "armlet",
+            "chinesename": "臂环"
+          },
+          {
+            "id": 241,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "wristband",
+            "chinesename": "腕带"
+          },
+          {
+            "id": 242,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "chains",
+            "chinesename": "锁链"
+          },
+          {
+            "id": 243,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "wrist cuffs",
+            "chinesename": "腕饰"
+          },
+          {
+            "id": 244,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "gloves",
+            "chinesename": "手套"
+          },
+          {
+            "id": 245,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "elbow gloves",
+            "chinesename": "长袖手套"
+          },
+          {
+            "id": 246,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "fingerless gloves",
+            "chinesename": "露指手套"
+          },
+          {
+            "id": 247,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "cuffs/shackles",
+            "chinesename": "手链/手铐"
+          },
+          {
+            "id": 248,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "handcuffs",
+            "chinesename": "手铐"
+          },
+          {
+            "id": 249,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "bracelet",
+            "chinesename": "手镯"
+          },
+          {
+            "id": 250,
+            "typeid": 2,
+            "typename": "饰品",
+            "englishname": "cane",
+            "chinesename": "手杖"
+          }
+        ]
+      },
+      {
+        "name": "袜子",
+        "data": [
+          {
+            "id": 26,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "",
+            "chinesename": "长丝袜"
+          },
+          {
+            "id": 27,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "颜色 stockings",
+            "chinesename": "颜色丝袜(和长丝袜冲突)"
+          },
+          {
+            "id": 62,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "pantyhose ",
+            "chinesename": "连裤袜"
+          },
+          {
+            "id": 311,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "garter straps",
+            "chinesename": "袜带"
+          },
+          {
+            "id": 312,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "garters",
+            "chinesename": "吊带袜"
+          },
+          {
+            "id": 313,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "garter belt",
+            "chinesename": "连腰吊带袜"
+          },
+          {
+            "id": 314,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "socks",
+            "chinesename": "短袜"
+          },
+          {
+            "id": 315,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "striped socks",
+            "chinesename": "横条袜"
+          },
+          {
+            "id": 316,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "loose socks",
+            "chinesename": "泡泡袜"
+          },
+          {
+            "id": 317,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "legwear",
+            "chinesename": "裹腿"
+          },
+          {
+            "id": 318,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "leggings",
+            "chinesename": "裤袜"
+          },
+          {
+            "id": 319,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "fishnets",
+            "chinesename": "网袜"
+          },
+          {
+            "id": 320,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "kneehighs",
+            "chinesename": "长袜"
+          },
+          {
+            "id": 321,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "stockings",
+            "chinesename": "丝袜"
+          },
+          {
+            "id": 322,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "fishnet stockings",
+            "chinesename": "渔网袜"
+          },
+          {
+            "id": 323,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "pantyhose",
+            "chinesename": "连裤袜"
+          },
+          {
+            "id": 324,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "fishnet pantyhose",
+            "chinesename": "渔网袜"
+          },
+          {
+            "id": 325,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "striped thighhighs",
+            "chinesename": "条纹过膝袜"
+          },
+          {
+            "id": 326,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "white thighhighs",
+            "chinesename": "白色过膝袜"
+          },
+          {
+            "id": 327,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "black thighhighs",
+            "chinesename": "黑色过膝袜"
+          },
+          {
+            "id": 328,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "pink thighhighs",
+            "chinesename": "粉色过膝袜"
+          },
+          {
+            "id": 329,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "torn thighhighs",
+            "chinesename": "损坏了的过膝袜"
+          },
+          {
+            "id": 330,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "tabi",
+            "chinesename": "日式厚底短袜"
+          },
+          {
+            "id": 331,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "leg garter",
+            "chinesename": "腿部花边环"
+          },
+          {
+            "id": 332,
+            "typeid": 2,
+            "typename": "袜子",
+            "englishname": "ankle lace-up",
+            "chinesename": "腿部系带"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "人物画风",
+    "typeList": [
+      {
+        "name": "风格",
+        "data": [
+          {
+            "id": 7,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "chibi",
+            "chinesename": "Q版"
+          },
+          {
+            "id": 8,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "anime ",
+            "chinesename": "日漫"
+          },
+          {
+            "id": 10,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "Genshin Impact",
+            "chinesename": "原神"
+          },
+          {
+            "id": 59,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "Warship girl",
+            "chinesename": "战舰女孩"
+          },
+          {
+            "id": 87,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "artbook",
+            "chinesename": "原画"
+          },
+          {
+            "id": 88,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "game_cg",
+            "chinesename": "游戏CG"
+          },
+          {
+            "id": 89,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "photo",
+            "chinesename": "照片"
+          },
+          {
+            "id": 90,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "science_fiction",
+            "chinesename": "科技幻想"
+          },
+          {
+            "id": 91,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "sketch",
+            "chinesename": "素描"
+          },
+          {
+            "id": 92,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "comic",
+            "chinesename": "漫画"
+          },
+          {
+            "id": 93,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "4koma",
+            "chinesename": "四格"
+          },
+          {
+            "id": 107,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "personification",
+            "chinesename": "拟人"
+          },
+          {
+            "id": 108,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "checkered",
+            "chinesename": "格子的"
+          },
+          {
+            "id": 109,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "lowres",
+            "chinesename": "低分辨率"
+          },
+          {
+            "id": 110,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "highres",
+            "chinesename": "高分辨率"
+          },
+          {
+            "id": 111,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "absurdres",
+            "chinesename": "超高分辨率"
+          },
+          {
+            "id": 112,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "incredibly_absurdres",
+            "chinesename": "极高分辨率"
+          },
+          {
+            "id": 113,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "huge_filesize",
+            "chinesename": "超级高分辨率/大文件"
+          },
+          {
+            "id": 114,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "wallpaper",
+            "chinesename": "壁纸"
+          },
+          {
+            "id": 115,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "pixel_art",
+            "chinesename": "点阵图"
+          },
+          {
+            "id": 116,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "monochrome",
+            "chinesename": "单色图片"
+          },
+          {
+            "id": 117,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "colorful",
+            "chinesename": "色彩斑斓的"
+          },
+          {
+            "id": 118,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "optical_illusion",
+            "chinesename": "视觉错误"
+          },
+          {
+            "id": 119,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "fine_art_parody",
+            "chinesename": "名画模仿"
+          },
+          {
+            "id": 120,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "traditional_media",
+            "chinesename": "传统媒体（基本上是手绘稿）"
+          },
+          {
+            "id": 121,
+            "typeid": 3,
+            "typename": "风格",
+            "englishname": "watercolor_(medium)",
+            "chinesename": "透明水彩绘"
+          }
+        ]
+      },
+      {
+        "name": "环境",
+        "data": [
+          {
+            "id": 94,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "dakimakura",
+            "chinesename": "抱枕"
+          },
+          {
+            "id": 95,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "cosplay",
+            "chinesename": "角色扮演"
+          },
+          {
+            "id": 96,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "crossover",
+            "chinesename": "穿越"
+          },
+          {
+            "id": 97,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "dark",
+            "chinesename": "暗的"
+          },
+          {
+            "id": 98,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "light",
+            "chinesename": "亮的"
+          },
+          {
+            "id": 99,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "night",
+            "chinesename": "晚上"
+          },
+          {
+            "id": 100,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "guro",
+            "chinesename": "猎奇"
+          },
+          {
+            "id": 101,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "realistic",
+            "chinesename": "写实"
+          },
+          {
+            "id": 102,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "real",
+            "chinesename": "真实"
+          },
+          {
+            "id": 103,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "landscape/scenery",
+            "chinesename": "风景"
+          },
+          {
+            "id": 104,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "cityscape",
+            "chinesename": "城市风景"
+          },
+          {
+            "id": 105,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "original",
+            "chinesename": "原创"
+          },
+          {
+            "id": 106,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "parody",
+            "chinesename": "拙劣的模仿"
+          },
+          {
+            "id": 125,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "back",
+            "chinesename": "背影像"
+          },
+          {
+            "id": 126,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "bust",
+            "chinesename": "半身像"
+          },
+          {
+            "id": 127,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "profile",
+            "chinesename": "侧面绘"
+          },
+          {
+            "id": 128,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "expressions",
+            "chinesename": "表情绘（各种表情）"
+          },
+          {
+            "id": 129,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "everyone",
+            "chinesename": "一部作品中的主要人物集齐"
+          },
+          {
+            "id": 130,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "column_lineup",
+            "chinesename": "一列列小图组成大图"
+          },
+          {
+            "id": 131,
+            "typeid": 3,
+            "typename": "环境",
+            "englishname": "gradient_background",
+            "chinesename": "渐变的背景"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "环境样式",
+    "typeList": [
+      {
+        "name": "背景",
+        "data": [
+          {
+            "id": 9,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "simple background",
+            "chinesename": "简单的背景"
+          },
+          {
+            "id": 46,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "fireworks",
+            "chinesename": "焰火"
+          },
+          {
+            "id": 47,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "onsen",
+            "chinesename": "温泉"
+          },
+          {
+            "id": 58,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "beautiful detailed sky",
+            "chinesename": "美丽的细部天空"
+          },
+          {
+            "id": 64,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "cherry blossoms",
+            "chinesename": "樱花"
+          },
+          {
+            "id": 122,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "silhouette",
+            "chinesename": "剪影"
+          },
+          {
+            "id": 123,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "covr",
+            "chinesename": "封面"
+          },
+          {
+            "id": 124,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "album",
+            "chinesename": "专辑"
+          },
+          {
+            "id": 132,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "zoom layer",
+            "chinesename": "背景是前景的放大版"
+          },
+          {
+            "id": 133,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "transparent background.png",
+            "chinesename": "纯黑的背景"
+          },
+          {
+            "id": 154,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "building",
+            "chinesename": "建筑"
+          },
+          {
+            "id": 155,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "ruins",
+            "chinesename": "废墟/遗迹"
+          },
+          {
+            "id": 162,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "flower petals",
+            "chinesename": "花瓣"
+          },
+          {
+            "id": 163,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "forest",
+            "chinesename": "森林/树"
+          },
+          {
+            "id": 169,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "crease",
+            "chinesename": "起皱"
+          },
+          {
+            "id": 170,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "ocean",
+            "chinesename": "大海"
+          },
+          {
+            "id": 171,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "sunset",
+            "chinesename": "落日"
+          },
+          {
+            "id": 172,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "full moon",
+            "chinesename": "满月"
+          },
+          {
+            "id": 173,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "pentagram",
+            "chinesename": "五角星"
+          },
+          {
+            "id": 174,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "magic_circle",
+            "chinesename": "魔法阵"
+          },
+          {
+            "id": 175,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "valentine",
+            "chinesename": "情人节"
+          },
+          {
+            "id": 176,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "halloween",
+            "chinesename": "万圣节"
+          },
+          {
+            "id": 177,
+            "typeid": 4,
+            "typename": "背景",
+            "englishname": "christmas",
+            "chinesename": "圣诞节"
+          }
+        ]
+      },
+      {
+        "name": "物品",
+        "data": [
+          {
+            "id": 48,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "musical note",
+            "chinesename": "音符"
+          },
+          {
+            "id": 49,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "oil paper umbrella",
+            "chinesename": "油纸伞"
+          },
+          {
+            "id": 134,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "camera",
+            "chinesename": "相机"
+          },
+          {
+            "id": 135,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "chopsticks",
+            "chinesename": "筷子"
+          },
+          {
+            "id": 136,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "microphone",
+            "chinesename": "麦克风"
+          },
+          {
+            "id": 137,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "weapons",
+            "chinesename": "武器"
+          },
+          {
+            "id": 138,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "dagger",
+            "chinesename": "匕首/短剑"
+          },
+          {
+            "id": 139,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "sword",
+            "chinesename": "刀"
+          },
+          {
+            "id": 140,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "scythe",
+            "chinesename": "镰刀"
+          },
+          {
+            "id": 141,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "whip",
+            "chinesename": "鞭"
+          },
+          {
+            "id": 142,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "riding crop",
+            "chinesename": "马鞭"
+          },
+          {
+            "id": 143,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "gun",
+            "chinesename": "枪"
+          },
+          {
+            "id": 144,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "handgun",
+            "chinesename": "手枪"
+          },
+          {
+            "id": 145,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "wand",
+            "chinesename": "魔杖"
+          },
+          {
+            "id": 146,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "arrow",
+            "chinesename": "箭"
+          },
+          {
+            "id": 147,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "umbrella",
+            "chinesename": "伞"
+          },
+          {
+            "id": 148,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "gohei",
+            "chinesename": "御币"
+          },
+          {
+            "id": 149,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "ofuda",
+            "chinesename": "札符"
+          },
+          {
+            "id": 150,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "yin yang",
+            "chinesename": "阴阳"
+          },
+          {
+            "id": 151,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "lantern/lamp",
+            "chinesename": "灯笼"
+          },
+          {
+            "id": 152,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "teacup",
+            "chinesename": "茶杯"
+          },
+          {
+            "id": 153,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "cigarette",
+            "chinesename": "香烟"
+          },
+          {
+            "id": 156,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "cake",
+            "chinesename": "蛋糕"
+          },
+          {
+            "id": 157,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "taiyaki",
+            "chinesename": "鲷鱼烧"
+          },
+          {
+            "id": 158,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "wine",
+            "chinesename": "葡萄酒"
+          },
+          {
+            "id": 159,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "cream",
+            "chinesename": "奶油"
+          },
+          {
+            "id": 160,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "ice cream",
+            "chinesename": "冰激凌"
+          },
+          {
+            "id": 161,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "sake",
+            "chinesename": "日本酒"
+          },
+          {
+            "id": 164,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "guitar",
+            "chinesename": "吉他"
+          },
+          {
+            "id": 165,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "piano",
+            "chinesename": "钢琴"
+          },
+          {
+            "id": 166,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "obento",
+            "chinesename": "便当"
+          },
+          {
+            "id": 167,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "chair",
+            "chinesename": "椅子"
+          },
+          {
+            "id": 168,
+            "typeid": 4,
+            "typename": "物品",
+            "englishname": "mimikaki",
+            "chinesename": "掏耳勺"
+          }
+        ]
+      }
+    ]
+  }
+]
